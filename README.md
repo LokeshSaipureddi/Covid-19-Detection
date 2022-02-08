@@ -25,5 +25,7 @@ after applying to pre-process.
 Table 2: Performance Comparison of various combinations of deep learning and
 machine learning models on classification without Image pre-processing
 ![alt text](https://github.com/LokeshSaipureddi/Covid-19-Detection/blob/main/Screenshot%202022-02-08%20131249.png)
-
+Table 3: Performance Comparison of various combinations of deep learning
+and machine learning models on classification with Image pre-processing
+![alt text](https://github.com/LokeshSaipureddi/Covid-19-Detection/blob/main/Screenshot%202022-02-08%20131325.png)
 
