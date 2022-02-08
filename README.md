@@ -13,3 +13,15 @@ obtained from the final FC layer of the aforementioned deep learning models are
 then fed into machine learning models to analyze how well the ML models are 
 performing on the deep learning features. The workflow of the proposed model is 
 shown in Figure.
+![alt text](https://github.com/LokeshSaipureddi/Covid-19-Detection/blob/main/Screenshot%202022-02-08%20130831.png)
+### Results
+We got the best results using a combination of InceptionV3 and SVM out of all
+the Transfer Learning Models we tried. Tables 2 and 3 show the results obtained
+with and without image pre-processing as explained in Section 3.2. On the SVM
+model, we achieved an accuracy of 86.12 percent, 85.24 percent, and 78.19
+percent with the Incep-tionV3, Resnet 50V2, and Efficient B7, respectively.
+According to Tables 2 and 3, there is an increase in accuracy for all three models
+after applying to pre-process.
+Table 2: Performance Comparison of various combinations of deep learning and
+machine learning models on classification without Image pre-processing
+
