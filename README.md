@@ -1,4 +1,4 @@
-# Covid-19-Detection
+# Deep Feature Based COVID Detection from CT Scan Images Using Support Vector Machine
 ### Proposed Architecture
 A Convolutional Neural Network (Conv Net) is a special category of neural 
 network architectures that takes an image as input, assigns importance to distinct 
