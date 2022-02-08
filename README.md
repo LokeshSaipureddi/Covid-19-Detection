@@ -24,4 +24,6 @@ According to Tables 2 and 3, there is an increase in accuracy for all three mode
 after applying to pre-process.
 Table 2: Performance Comparison of various combinations of deep learning and
 machine learning models on classification without Image pre-processing
+![alt text](https://github.com/LokeshSaipureddi/Covid-19-Detection/blob/main/Screenshot%202022-02-08%20131249.png)
+
 
